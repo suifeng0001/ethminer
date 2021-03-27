@@ -12,7 +12,7 @@ environment:
   matrix:
     - CUDA_VER: "11.1"
   HUNTER_CACHE_TOKEN:
-    secure: VnpF1MH5MEFvUI5MiMMMFlmbDdst+bfom5ZFVgalYPp/SYDhbejjXJm9Dla/IgpC
+    secure: WWxmwHvy48n+HQmdPYOn/SRa/IyRGYmSsvpWlnOjNDFQRXSovsfEsdLoFgyGSXRv
 
 cache:
   - C:\CUDA\v11.1-> appveyor.yml
