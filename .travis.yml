@@ -89,5 +89,6 @@ deploy:
     file_glob: true
     file: package/*
     skip_cleanup: true
+    github-token: $gh_token
     on:
       tags: true
